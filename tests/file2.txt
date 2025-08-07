@@ -1,0 +1,8 @@
+Writing text to file1.
+Writing text to file1.
+Copying some items from file 1 to file 2 now: 
+Writing text to file1.
+Writing text to file1.
+Copying some items from file 1 to file 2 now: 
+Writing text to file1.
+Writing text to file1.

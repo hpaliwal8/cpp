@@ -1,0 +1,2 @@
+Writing text to file1.
+Writing text to file1.
